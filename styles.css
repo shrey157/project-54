@@ -66,8 +66,9 @@ a:visited{
     padding: 30px;              
     margin: 25px;
     border: solid;
-    width:310px;
-    font-family: fantasy;
+    width:380px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+    font-size: large;
     
 }
 
